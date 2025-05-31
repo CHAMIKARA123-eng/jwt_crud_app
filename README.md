@@ -14,7 +14,7 @@ A simple Flutter app with user registration, login, and JWT-based authentication
 
 ### 1. Clone this repo
 
-      git clone <your_repo_url>
+      git clone <https://github.com/CHAMIKARA123-eng/jwt_crud_app>
       cd jwt_crud_app
 
 ### 2. Start the backend server
